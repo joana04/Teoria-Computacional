@@ -1,0 +1,22 @@
+\select@language {spanish}
+\contentsline {section}{\numberline {1}Aut\IeC {\'o}mata No Determinista}{3}
+\contentsline {subsection}{\numberline {1.1}C\IeC {\'o}digo fuente}{3}
+\contentsline {subsection}{\numberline {1.2}Pruebas}{5}
+\contentsline {section}{\numberline {2}WEB/EBAY}{7}
+\contentsline {subsection}{\numberline {2.1}C\IeC {\'o}digo fuente}{7}
+\contentsline {subsection}{\numberline {2.2}Pruebas}{13}
+\contentsline {section}{\numberline {3}Planetas}{18}
+\contentsline {subsection}{\numberline {3.1}C\IeC {\'o}digo fuente}{18}
+\contentsline {subsection}{\numberline {3.2}Pruebas}{20}
+\contentsline {section}{\numberline {4}Palindromo}{24}
+\contentsline {subsection}{\numberline {4.1}C\IeC {\'o}digo fuente}{24}
+\contentsline {subsection}{\numberline {4.2}Pruebas}{26}
+\contentsline {section}{\numberline {5}Par\IeC {\'e}ntesis}{29}
+\contentsline {subsection}{\numberline {5.1}C\IeC {\'o}digo fuente}{29}
+\contentsline {subsection}{\numberline {5.2}Pruebas}{33}
+\contentsline {section}{\numberline {6}Pila}{35}
+\contentsline {subsection}{\numberline {6.1}C\IeC {\'o}digo fuente}{35}
+\contentsline {subsection}{\numberline {6.2}Pruebas}{40}
+\contentsline {section}{\numberline {7}M\IeC {\'a}quina de Turing}{43}
+\contentsline {subsection}{\numberline {7.1}C\IeC {\'o}digo fuente}{43}
+\contentsline {subsection}{\numberline {7.2}Pruebas}{47}
