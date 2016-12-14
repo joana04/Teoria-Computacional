@@ -1,0 +1,86 @@
+q0 -h-->q0 -e-->q1 -r-->q2 -e-->q3 -eFIN
+q0 -h-->q0 -e-->q1 -r-->q2 -e-->q3 -eFIN
+q0 -h-->q0 -e-->q1 -r-->q2 -e-->q3 -eFIN
+q0 -T-->q0 -a-->q0 -l-->q0 -k-->No Valida
+q0 -a-->q0 -b-->q0 -o-->q0 -u-->q0 -t-->No Valida
+q0 -a-->No Valida
+q0 -w-->q0 -i-->q0 -r-->q0 -e-->q1 -l-->q0 -e-->q1 -s-->q0 -s-->No Valida
+q0 -f-->q0 -u-->q0 -t-->q0 -u-->q0 -r-->q0 -e-->No Valida
+q0 -h-->q0 -a-->q0 -d-->No Valida
+q0 -p-->q0 -e-->q1 -o-->q0 -p-->q0 -l-->q0 -e-->No Valida
+q0 -t-->q0 -h-->q0 -e-->q1 -r-->q2 -e-->q0 -l-->q0 -r-->q0 -e-->q1 -a-->q0 -d-->q0 -y-->No Valida
+q0 -l-->q0 -o-->q0 -o-->q0 -k-->q0 -i-->q0 -n-->q0 -g-->No Valida
+q0 -t-->q0 -o-->q0 -w-->q0 -a-->q0 -r-->q0 -d-->No Valida
+q0 -w-->q0 -h-->q0 -e-->q1 -r-->q2 -e-->q3 -eFIN
+q0 -b-->q0 -i-->q0 -g-->No Valida
+q0 -c-->q0 -h-->q0 -a-->q0 -n-->q0 -g-->q0 -e-->q1 -s-->No Valida
+q0 -h-->q0 -e-->q1 -r-->q2 -e-->q3 -eFIN
+q0 -t-->q0 -h-->q0 -a-->q0 -t-->No Valida
+q0 -c-->q0 -o-->q0 -u-->q0 -l-->q0 -d-->No Valida
+q0 -b-->q0 -e-->No Valida
+q0 -i-->q0 -n-->No Valida
+q0 -s-->q0 -t-->q0 -o-->q0 -r-->q0 -e-->No Valida
+q0 -f-->q0 -o-->q0 -r-->No Valida
+q0 -n-->q0 -e-->q1 -x-->q0 -t-->No Valida
+q0 -y-->q0 -e-->q1 -a-->q0 -r-->q0 -,-->No Valida
+q0 -t-->q0 -h-->q0 -e-->No Valida
+q0 -1-->q0 -0-->q0 -t-->q0 -h-->No Valida
+q0 -a-->q0 -n-->q0 -n-->q0 -i-->q0 -v-->q0 -e-->q1 -r-->q2 -s-->q0 -a-->q0 -r-->q0 -y-->No Valida
+q0 -o-->q0 -f-->No Valida
+q0 -t-->q0 -h-->q0 -e-->No Valida
+q0 -i-->q0 -P-->q0 -h-->q0 -o-->q0 -n-->q0 -e-->q1 -,-->No Valida
+q0 -a-->q0 -n-->q0 -d-->No Valida
+q0 -b-->q0 -e-->q1 -y-->q0 -o-->q0 -n-->q0 -d-->q0 -.-->No Valida
+q0 -M-->q0 -r-->q0 -.-->No Valida
+q0 -B-->q0 -a-->q0 -j-->q0 -a-->q0 -r-->q0 -i-->q0 -n-->q0 -,-->No Valida
+q0 -f-->q0 -o-->q0 -r-->No Valida
+q0 -e-->q1 -x-->q0 -a-->q0 -m-->q0 -p-->q0 -l-->q0 -e-->q1 -,-->No Valida
+q0 -e-->q1 -x-->q0 -p-->q0 -e-->q1 -c-->q0 -t-->q0 -s-->No Valida
+q0 -A-->q0 -p-->q0 -p-->q0 -l-->q0 -e-->No Valida
+q0 -t-->q0 -o-->No Valida
+q0 -i-->q0 -n-->q0 -t-->q0 -r-->q0 -o-->q0 -d-->q0 -u-->q0 -c-->q0 -e-->No Valida
+q0 -t-->q0 -h-->q0 -e-->q1 -r-->q2 -e-->q3 -eFIN
+q0 -w-->q0 -i-->q0 -r-->q0 -e-->q1 -l-->q0 -e-->q1 -s-->q0 -s-->No Valida
+q0 -c-->q0 -h-->q0 -a-->q0 -r-->q0 -g-->q0 -i-->q0 -n-->q0 -g-->No Valida
+q0 -t-->q0 -o-->No Valida
+q0 -t-->q0 -h-->q0 -e-->No Valida
+q0 -i-->q0 -P-->q0 -h-->q0 -o-->q0 -n-->q0 -e-->No Valida
+q0 -i-->q0 -n-->No Valida
+q0 -t-->q0 -h-->q0 -e-->No Valida
+q0 -n-->q0 -e-->q1 -a-->q0 -r-->No Valida
+q0 -f-->q0 -u-->q0 -t-->q0 -u-->q0 -r-->q0 -e-->q1 -.-->No Valida
+q0 -S-->q0 -h-->q0 -o-->q0 -u-->q0 -l-->q0 -d-->No Valida
+q0 -w-->q0 -i-->q0 -r-->q0 -e-->q1 -l-->q0 -e-->q1 -s-->q0 -s-->No Valida
+q0 -c-->q0 -o-->q0 -n-->q0 -n-->q0 -e-->q1 -c-->q0 -t-->q0 -i-->q0 -o-->q0 -n-->q0 -s-->No Valida
+q0 -b-->q0 -e-->q1 -c-->q0 -o-->q0 -m-->q0 -e-->No Valida
+q0 -a-->No Valida
+q0 -b-->q0 -i-->q0 -g-->q0 -g-->q0 -e-->q1 -r-->No Valida
+q0 -p-->q0 -a-->q0 -r-->q0 -t-->No Valida
+q0 -o-->q0 -f-->No Valida
+q0 -A-->q0 -p-->q0 -p-->q0 -l-->q0 -e-->q1 -s-->No Valida
+q0 -f-->q0 -u-->q0 -t-->q0 -u-->q0 -r-->q0 -e-->q1 -,-->No Valida
+q0 -i-->q0 -t-->No Valida
+q0 -i-->q0 -s-->No Valida
+q0 -n-->q0 -o-->q0 -t-->No Valida
+q0 -a-->No Valida
+q0 -l-->q0 -e-->q1 -a-->q0 -p-->No Valida
+q0 -t-->q0 -o-->No Valida
+q0 -i-->q0 -m-->q0 -a-->q0 -g-->q0 -i-->q0 -n-->q0 -e-->No Valida
+q0 -c-->q0 -l-->q0 -o-->q0 -s-->q0 -e-->q1 -r-->No Valida
+q0 -i-->q0 -n-->q0 -t-->q0 -e-->q1 -g-->q0 -r-->q0 -a-->q0 -t-->q0 -i-->q0 -o-->q0 -n-->No Valida
+q0 -b-->q0 -e-->q1 -t-->q0 -w-->q0 -e-->q1 -e-->q1 -n-->No Valida
+q0 -t-->q0 -h-->q0 -e-->No Valida
+q0 -c-->q0 -o-->q0 -m-->q0 -p-->q0 -a-->q0 -n-->q0 -y-->q0 -s-->No Valida
+q0 -v-->q0 -a-->q0 -r-->q0 -i-->q0 -o-->q0 -u-->q0 -s-->No Valida
+q0 -d-->q0 -e-->q1 -v-->q0 -i-->q0 -c-->q0 -e-->q1 -s-->No Valida
+q0 -a-->q0 -n-->q0 -d-->No Valida
+q0 -i-->q0 -t-->q0 -s-->No Valida
+q0 -s-->q0 -o-->q0 -f-->q0 -t-->q0 -w-->q0 -a-->q0 -r-->q0 -e-->No Valida
+q0 -m-->q0 -e-->q1 -a-->q0 -n-->q0 -t-->No Valida
+q0 -f-->q0 -o-->q0 -r-->No Valida
+q0 -c-->q0 -a-->q0 -r-->q0 -s-->q0 -,-->No Valida
+q0 -c-->q0 -a-->q0 -l-->q0 -l-->q0 -e-->q1 -d-->No Valida
+q0 -w-->q0 -h-->q0 -e-->q1 -r-->q2 -e-->q3 -eFIN
+q0 -C-->q0 -a-->q0 -r-->q0 -P-->q0 -l-->q0 -a-->q0 -y-->No Valida
+q0 -w-->q0 -h-->q0 -e-->q1 -r-->q2 -e-->q3 -eFIN
+q0 -w-->q0 -h-->q0 -e-->q1 -r-->q2 -e-->q3 -.FIN

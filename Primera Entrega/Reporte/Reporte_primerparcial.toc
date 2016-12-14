@@ -1,0 +1,23 @@
+\select@language {spanish}
+\contentsline {section}{\numberline {1}Introducci\IeC {\'o}n}{3}
+\contentsline {section}{\numberline {2}Universo}{4}
+\contentsline {subsection}{\numberline {2.1}Descripci\IeC {\'o}n:}{4}
+\contentsline {subsection}{\numberline {2.2}C\IeC {\'o}digo fuente}{4}
+\contentsline {subsection}{\numberline {2.3}Pruebas}{8}
+\contentsline {section}{\numberline {3}N\IeC {\'u}meros primos}{9}
+\contentsline {subsection}{\numberline {3.1}Descripci\IeC {\'o}n }{9}
+\contentsline {subsection}{\numberline {3.2}C\IeC {\'o}digo}{9}
+\contentsline {subsection}{\numberline {3.3}Pruebas}{13}
+\contentsline {section}{\numberline {4}Aut\IeC {\'o}mata terinacion -ere}{19}
+\contentsline {subsection}{\numberline {4.1}Descripci\IeC {\'o}n }{19}
+\contentsline {subsection}{\numberline {4.2}C\IeC {\'o}digo}{19}
+\contentsline {subsection}{\numberline {4.3}Pruebas}{24}
+\contentsline {section}{\numberline {5}Aut\IeC {\'o}mata de paridad}{27}
+\contentsline {subsection}{\numberline {5.1}Descripci\IeC {\'o}n }{27}
+\contentsline {subsection}{\numberline {5.2}C\IeC {\'o}digo}{27}
+\contentsline {subsection}{\numberline {5.3}Pruebas}{31}
+\contentsline {section}{\numberline {6}Protocolo}{34}
+\contentsline {subsection}{\numberline {6.1}Descripci\IeC {\'o}n }{34}
+\contentsline {subsection}{\numberline {6.2}C\IeC {\'o}digo}{34}
+\contentsline {subsection}{\numberline {6.3}Pruebas}{37}
+\contentsline {section}{\numberline {7}Cadenas que terminan en 01}{41}
