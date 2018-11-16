@@ -1,0 +1,37 @@
+------00111------
+Inicio  |-Z0
+|-XZ0
+|-XXZ0
+|-XZ0
+|-Z0
+----Cadena NO Valida----
+----Cadena NO Valida----
+------0011------
+Inicio  |-Z0
+|-XZ0
+|-XXZ0
+|-XZ0
+|-Z0
+---Cadena Valida------------
+------00001111------
+Inicio  |-Z0
+|-XZ0
+|-XXZ0
+|-XXXZ0
+|-XXXXZ0
+|-XXXZ0
+|-XXZ0
+|-XZ0
+|-Z0
+---Cadena Valida------------
+------00010001------
+Inicio  |-Z0
+|-XZ0
+|-XXZ0
+|-XXXZ0
+|-XXZ0
+|-XXXZ0
+|-XXXXZ0
+|-XXXXXZ0
+|-XXXXZ0
+----Cadena NO Valida----
